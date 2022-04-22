@@ -3,7 +3,7 @@ const XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
 const client = new Discord.Client();
 const prefix = '-'
 
-client.login('OTY2OTk2MzM0Njg1MDg5ODEz.YmJ3hA.tqLG_xX5dHWs9OCvOrwa2CgOQbU');
+client.login('bot token girin');
 
 client.on('ready', () => {
 	console.log(`Bot,kullanıma hazir.`, "Hazir");	
